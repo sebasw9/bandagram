@@ -8,8 +8,8 @@ gem 'bootstrap-sass', '~> 3.3', '>= 3.3.5.1'
 gem 'jquery-rails'
 gem 'turbolinks'
 gem 'devise', '~> 3.5', '>= 3.5.2'
-gem 'paperclip', '~> 4.3', '>= 4.3.1'
-gem 'aws-sdk', '~> 2.1', '>= 2.1.30'
+gem 'paperclip'
+gem 'aws-sdk'
 gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
