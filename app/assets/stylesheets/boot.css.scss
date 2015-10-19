@@ -1,7 +1,10 @@
 $link-color: #FF3300;
-$navbar-inverse-brand-color: #cb2FF3300027;
+$navbar-inverse-brand-color: #FF3300;
 $navbar-height: 60px;
 $navbar-border-radius: 0px;
+
+$dropdown-bg: #333;
+$dropdown-link-hover-bg: transparent;
 
 $brand-primary: #FF3300;
 $body-bg: transparent;
@@ -10,6 +13,7 @@ $pagination-active-bg: #FF3300;
 $pagination-active-border: #FF3300;
 
 $btn-warning-bg: #FF3300;
+$btn-danger-bg: red;
 
 
 // "bootstrap-sprockets" must be imported before "bootstrap" and "bootstrap/variables"
