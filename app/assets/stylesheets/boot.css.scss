@@ -21,7 +21,7 @@ $btn-warning-bg: #FF3300;
 }
 
 html { 
-    background: url(bg.jpg) no-repeat center center fixed; 
+    background: asset_url('bg.jpg') no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
